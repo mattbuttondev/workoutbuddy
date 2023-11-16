@@ -8,6 +8,6 @@ Keep tabs on your exercise routines with WorkoutBuddy. The app includes a robust
 https://workoutbuddy.mattbutton.dev
 
 ## Tech Stack
-**Server:** Node.js, Express.js, MongoDB, Mongoose
+**Server:** Node.js, Express.js, MongoDB, Mongoose<br>
 **Client:** React
 
